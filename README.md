@@ -15,6 +15,6 @@
 
 |    |                                       Challenge                                        | Difficulty |               Solution                |
 | :-: | :------------------------------------------------------------------------------------: | :------------: | :-----------------------------------: |
-| Day 1 🎁  |                    [🎁 First gift repeated!](adventjs.dev/Day1/problem.md)         |       🟢      | [Show](adventjs.dev/Day1/solution.py) |
+| Day 1 🎁  |                    [🎁 First gift repeated!](adventjs.dev/Day1/problem.md)         |       🟢      | [Show](adventjs.dev/Day1/solution.js) |
 
 **Difficulty**: 🟢 Easy 🟠 Medium
