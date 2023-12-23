@@ -19,5 +19,6 @@
 | Day 1 🎁  |                    [🎁 First gift repeated!](adventjs.dev/Day1/problem.md)         |       🟢      | [Show](adventjs.dev/Day1/solution.js) |
 | Day 2 🎁  |                    [🏭 We start the factory](adventjs.dev/Day2/problem.md)         |       🟢      | [Show](adventjs.dev/Day2/solution.js) |
 | Day 3 🎁  |                    [😏 The naughty elf](adventjs.dev/Day3/problem.md)         |       🟢      | [Show](adventjs.dev/Day3/solution.js) |
+| Day 4 🎁  |                    [😵‍💫 Turn the parentheses around](adventjs.dev/Day4/problem.md)         |       🟠      | [Show](adventjs.dev/Day4/solution.js) |
 
 **Difficulty**: 🟢 Easy 🟠 Medium
